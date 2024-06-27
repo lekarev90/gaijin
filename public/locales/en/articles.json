@@ -1,0 +1,50 @@
+{
+  "articleDoesntFound": "Article not found",
+  "commentTitle": "Comments",
+  "editButton": "Edit article",
+  "goBack": "Go back",
+  "orderBy": "Order by",
+  "recommendationTitle": "Recommendations",
+  "search": {
+    "placeholder": "Search text"
+  },
+  "sort": {
+    "orderBy": {
+      "asc": "asc",
+      "desc": "desc"
+    },
+    "sortBy": {
+      "created": "created",
+      "title": "title",
+      "views": "views"
+    }
+  },
+  "sortBy": "Sort by",
+  "types": {
+    "all": "All",
+    "business": "Business",
+    "culture": "Culture",
+    "economic": "Economic",
+    "education": "Education",
+    "environment": "Environment",
+    "ethics": "Ethics",
+    "global": "Global",
+    "health": "Health",
+    "it": "IT",
+    "medicine": "Medicine",
+    "politics": "Politics",
+    "psychology": "Psychology",
+    "science": "Science",
+    "security": "Security",
+    "social": "Social",
+    "sport": "Sport",
+    "technology": "Technology",
+    "travel": "Travel",
+    "trends": "Trends"
+  },
+  "views": {
+    "{{count}} просмотров_zero": "{{count}} views",
+    "{{count}} просмотров_one": "{{count}} view",
+    "{{count}} просмотров_other": "{{count}} views"
+  }
+}

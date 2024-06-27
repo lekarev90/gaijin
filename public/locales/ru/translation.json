@@ -1,0 +1,73 @@
+{
+  "aboutPage": {
+    "bodyText": "О нас"
+  },
+  "authModal": {
+    "loginBtn": "Войти",
+    "password": "Пароль",
+    "title": "Форма авторизации",
+    "username": "Логин"
+  },
+  "countrySelectorLabel": "Страна",
+  "currencySelectorLabel": "Валюта",
+  "errorPage": {
+    "mainTitle": "Что-то сломалось",
+    "reloadButtonText": "Перезагрузить страницу"
+  },
+  "loadMore": "Загрузить еще",
+  "login": {
+    "error": "Ошибка. Попробуйте еще раз позже"
+  },
+  "mainPage": {
+    "bodyText": "Главная"
+  },
+  "mainTitleLogo": "Сборник статей",
+  "navbar": {
+    "authModalButton": {
+      "login": "Войти",
+      "logout": "Выйти"
+    },
+    "createArticle": "Создать статью",
+    "empty": "/",
+    "menu": {
+      "aboutUs": "О нас"
+    },
+    "profileLink": "Профиль",
+    "adminLink": "Админка"
+  },
+  "notFoundPage": {
+    "body": {
+      "mainText": "Такой страницы не существует"
+    }
+  },
+  "profilePage": {
+    "bodyText": "Профиль"
+  },
+  "readMore": "Читать далее",
+  "serverError": "Проблема с подключением. Повторите еще раз.",
+  "sidebar": {
+    "hide": "<",
+    "menu": {
+      "linkTitles": {
+        "about": "О нас",
+        "article": "Статьи",
+        "main": "Главная",
+        "profile": "Профиль"
+      }
+    },
+    "open": ">"
+  },
+  "switchLanguage": "RU",
+  "countrySelectorDefaultValue": "Укажите страну",
+  "currencySelectorDefaultValue": "Укажите валюту",
+  "feedbackRating": {
+    "placeholder": "Ваш отзыв",
+    "closeBtn": "Закрыть",
+    "sendFeedbackBtn": "Отправить",
+    "rated": "Ваша оценка"
+  },
+  "design": {
+    "new": "Новый дизайн",
+    "old": "Старый дизайн"
+  }
+}

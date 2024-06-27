@@ -1,0 +1,41 @@
+.button {
+  border-radius: var(--border-radius-small);
+  padding: 8px 16px;
+
+  &:not([disabled]) {
+    cursor: pointer;
+  }
+}
+
+.outline {
+  border: 1px solid;
+  background: none;
+  transition: background-color 0.2s ease-in-out;
+
+  &.normal {
+    border-color: var(--light);
+  }
+
+  &.success {
+    border-color: var(--success);
+  }
+
+  &:hover:not([disabled]) {
+    background-color: var(--light);
+  }
+}
+
+.filled {
+  background-color: var(--light);
+  border: none;
+  outline: none;
+  transition: background-color 0.2s ease-in-out;
+
+  &:hover:not([disabled]) {
+    background-color: var(--accent);
+  }
+}
+
+.isWide {
+  width: 100%;
+}

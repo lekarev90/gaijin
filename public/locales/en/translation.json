@@ -1,0 +1,59 @@
+{
+  "aboutPage": {
+    "bodyText": "About us"
+  },
+  "authModal": {
+    "loginBtn": "Log in",
+    "password": "Password",
+    "title": "Auth form",
+    "username": "Username"
+  },
+  "countrySelectorLabel": "Country",
+  "currencySelectorLabel": "Currency",
+  "errorPage": {
+    "mainTitle": "Something broke",
+    "reloadButtonText": "Reload page"
+  },
+  "loadMore": "Load more",
+  "login": {
+    "error": "Error. Try again later"
+  },
+  "mainPage": {
+    "bodyText": "Main"
+  },
+  "mainTitleLogo": "Articles blog",
+  "navbar": {
+    "authModalButton": {
+      "login": "Log in",
+      "logout": "Log out"
+    },
+    "createArticle": "Create article",
+    "empty": "text/",
+    "menu": {
+      "aboutUs": "About us"
+    }
+  },
+  "notFoundPage": {
+    "body": {
+      "mainText": "This page doesn't exist"
+    }
+  },
+  "profilePage": {
+    "bodyText": "Profile"
+  },
+  "readMore": "Read more",
+  "serverError": "Server error. Try again later",
+  "sidebar": {
+    "hide": "<",
+    "menu": {
+      "linkTitles": {
+        "about": "About us",
+        "article": "Articles",
+        "main": "Main",
+        "profile": "Profile"
+      }
+    },
+    "open": ">"
+  },
+  "switchLanguage": "ENG"
+}

@@ -1,0 +1,33 @@
+{
+  "editButton": "Редактировать",
+  "errors": {
+    "age": "Некорректный возраст",
+    "incorrect_user_data": "Фамилия и имя обязательны для заполнения",
+    "no_data": "Нет данных",
+    "server_error": "Ошибка сервера"
+  },
+  "inputsPlaceholder": {
+    "age": "Ваш возраст",
+    "avatar": "Ссылка на аватар",
+    "country": "Страна",
+    "currency": "Валюта",
+    "firstName": "Ваше имя",
+    "lastName": "Ваша фамилия",
+    "username": "Никнейм",
+    "city": "Город"
+  },
+  "inputLabels": {
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "age": "Возраст",
+    "city": "Город",
+    "username": "Никнейм",
+    "avatar": "Ссылка на аватар",
+    "currency": "Валюта",
+    "country": "Страна"
+
+  },
+  "pageTitle": "Профиль",
+  "resetButton": "Отменить",
+  "saveButton": "Сохранить"
+}

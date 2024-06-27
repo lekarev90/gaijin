@@ -1,0 +1,59 @@
+{
+  "articleDoesntFound": "Статья не найдена",
+  "commentTitle": "Комментарии",
+  "editButton": "Редактировать статью",
+  "goBack": "Обратно к статьям",
+  "orderBy": "Упорядочить по",
+  "recommendationTitle": "Рекомендации",
+  "search": {
+    "placeholder": "Поиск..."
+  },
+  "sort": {
+    "titleCommon": "Сортировать по:",
+    "orderBy": {
+      "asc": "возрастанию",
+      "desc": "убыванию"
+    },
+    "sortBy": {
+      "created": "созданию",
+      "title": "названию",
+      "views": "просмотрам"
+    }
+  },
+  "sortBy": "Сортировать по",
+  "types": {
+    "all": "Все",
+    "business": "Бизнес",
+    "culture": "Культура",
+    "economic": "Экономика",
+    "education": "Образование",
+    "environment": "Окружающая среда",
+    "ethics": "Этика",
+    "global": "Глобальное",
+    "health": "Здоровье",
+    "it": "IT",
+    "medicine": "Медицина",
+    "politics": "Политика",
+    "psychology": "Психология",
+    "science": "Наука",
+    "security": "Безопасность",
+    "social": "Социальное",
+    "sport": "Спорт",
+    "technology": "Технологии",
+    "travel": "Путешествия",
+    "trends": "Тенденции"
+  },
+  "rateArticle": "Оцените статью",
+  "rateArticleFeedback": "Оставьте отзыв о статье",
+  "features": {
+    "rating": {
+      "comingSoon": "Скоро здесь появится рейтинг"
+    }
+  },
+  "views": {
+    "{{count}} просмотров_zero": "{{count}} просмотров",
+    "{{count}} просмотров_one": "{{count}} просмотр",
+    "{{count}} просмотров_few": "{{count}} просмотра",
+    "{{count}} просмотров_many": "{{count}} просмотров"
+  }
+}
